@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>               Hello Friends!               </h2>
+<h2>               Hello Friends! I AM FROM Release_15              </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS with GCP & AZURE !@@!     </h3>
 <h4> @Trainers - SATYA / KIRAN / MUNESH  / FAYAZ  / GOPI   </h4>
 <marquee behavior="alternate">Devops</marquee>
